@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "Carpe Diem",
-		"description": "随机漫步的个人空间",
-		"username": "Carpe Diem"
+		"title": "YYsuni",
+		"description": "",
+		"username": "i"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -32,7 +32,7 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "cat",
+	"currentArtImageId": "a46372ff45bc5524",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -44,17 +44,10 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "2680579741@qq.com",
+			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
-		},
-		{
-			"id": "button-1764995548807",
-			"type": "zhihu",
-			"value": "https://www.zhihu.com/people/68-31-42-68-79",
-			"label": "",
-			"order": 2
 		}
 	],
-	"clockShowSeconds": false
+	"clockShowSeconds": true
 }
