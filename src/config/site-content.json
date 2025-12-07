@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "Carpediem",
+		"title": "Carpe Diem",
 		"description": "Carpediem",
-		"username": "Carpediem"
+		"username": "Carpe Diem"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -47,6 +47,13 @@
 			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1765123555095",
+			"type": "zhihu",
+			"value": "https://www.zhihu.com/people/68-31-42-68-79/columns",
+			"label": "知乎",
+			"order": 2
 		}
 	],
 	"clockShowSeconds": true
